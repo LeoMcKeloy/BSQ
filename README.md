@@ -33,8 +33,3 @@ o......o.o...o.o.o
 ........oo...o....
 ..o....o.......o..
 .........oooo.....
-```
-
-then bsq should output:
-
-![Preview](https://i.imgur.com/sVNENxR.png)
